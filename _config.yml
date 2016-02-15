@@ -1,0 +1,28 @@
+name: westcompdoc.com
+favicon: null
+layout_spectrum: 0.738155075116083
+typography_spectrum: 0.3257395608816296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.25859985896386206
+  lightness: 0.31866419571451843
+  saturation: 0.7506116156000644
+  rhythmicContrast: 0.9917917125858366
+purpose: []
